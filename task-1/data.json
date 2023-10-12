@@ -1,0 +1,8 @@
+{
+    "examples": [
+        { "distance": { "unit": "m", "value": 0.5 }, "convertTo": "ft" },
+        { "distance": { "unit": "ft", "value": 10 }, "convertTo": "cm" },
+        { "distance": { "unit": "mm", "value": 8.4 }, "convertTo": "in" },
+        { "distance": { "unit": "yd", "value": 5 }, "convertTo": "mm" }
+    ]
+}
